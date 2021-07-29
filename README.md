@@ -5,7 +5,8 @@ You will present this application as if you were pitching it to a board or to in
 When you're presenting, you're welcome to provide a brief slideshow demonstrating the technologies involved in the app, it's features, and the Agile Development Process you undewent to develop it.
 
 ## Required Technologies for RESTful Wep Application
-- Spring Boot (With Spring Data and Spring Web)
+- Spring MVC
+- Spring ORM
 - JavaScript, HTML, CSS (or React)
 - Consume a RESTful API
 - Amazon RDS
